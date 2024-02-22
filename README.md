@@ -1,2 +1,4 @@
 # pytorch-learning
 pytorch学习过程，test10及之前是有关于龙良曲pytorch的学习内容，test10之后是对某些感兴趣的模型的复现
+
+路过的同学可以为我点一个免费的star吗，拜托啦
